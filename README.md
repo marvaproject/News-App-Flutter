@@ -1,1 +1,1 @@
-# Weather App by Flutter
+# News App by Flutter
