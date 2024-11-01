@@ -1,1 +1,1 @@
-# News App by Flutter
+# News application from Flutter
